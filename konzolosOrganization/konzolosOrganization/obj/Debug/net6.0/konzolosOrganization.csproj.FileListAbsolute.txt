@@ -1,0 +1,15 @@
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\bin\Debug\net6.0\konzolosOrganization.exe
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\bin\Debug\net6.0\konzolosOrganization.deps.json
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\bin\Debug\net6.0\konzolosOrganization.runtimeconfig.json
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\bin\Debug\net6.0\konzolosOrganization.dll
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\bin\Debug\net6.0\konzolosOrganization.pdb
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\obj\Debug\net6.0\konzolosOrganization.csproj.AssemblyReference.cache
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\obj\Debug\net6.0\konzolosOrganization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\obj\Debug\net6.0\konzolosOrganization.AssemblyInfoInputs.cache
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\obj\Debug\net6.0\konzolosOrganization.AssemblyInfo.cs
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\obj\Debug\net6.0\konzolosOrganization.csproj.CoreCompileInputs.cache
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\obj\Debug\net6.0\konzolosOrganization.dll
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\obj\Debug\net6.0\refint\konzolosOrganization.dll
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\obj\Debug\net6.0\konzolosOrganization.pdb
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\obj\Debug\net6.0\konzolosOrganization.genruntimeconfig.cache
+C:\Users\gazdag.zsolt\source\repos\konzolosOrganization\konzolosOrganization\obj\Debug\net6.0\ref\konzolosOrganization.dll
